@@ -229,6 +229,6 @@
     "description": "Он пришёл на встречу, но все уже ушли.",
     "hint": "Время он не перепутал.",
     "explanation": "Коллеги решили поменять время встречи без уведомления, а он забыл проверить почту.",
-    "imageUrl": "missedMeeting"
+    "imageUrl": "https://animepusya.github.io/YNG-content/images/missedMeeting.png"
   }
 ]
