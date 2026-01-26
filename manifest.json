@@ -1,4 +1,7 @@
 {
-  "contentVersion": 5,
-  "cardsPath": "cards.json"
+  "contentVersion": 2,
+  "cardsPaths": {
+    "ru": "cards_ru.json",
+    "en": "cards_en.json"
+  }
 }
