@@ -1,78 +1,123 @@
 [
   {
-    "id": 1,
+    "id": 11,
     "category": "Military",
-    "title": "City in a Web",
-    "description": "The city ended up covered with threads, like a spider web.",
+    "title": "A city in a web",
+    "description": "The city was covered in thin threads, like a spider web.",
     "hint": "It had nothing to do with electricity or destruction.",
-    "explanation": "During fighting near Lyman, FPV drones controlled via fiber-optic cables were widely used. The cable unwound behind the drone during flight, remaining on the ground after the drone was destroyed or landed. The mass use of such drones led to the city being literally covered with fiber-optic threads resembling a web.",
+    "explanation": "During the fighting near Lyman, FPV drones controlled via fiber-optic cables were widely used. The cable unspooled behind the drone mid-flight and remained on the ground after the drone was destroyed or landed. The mass use of such drones left the city literally covered in fiber-optic threads, resembling a giant web.",
     "imageName": "fiberDroneWeb"
   },
   {
-    "id": 2,
+    "id": 12,
     "category": "Military",
-    "title": "Flew to the Enemy",
-    "description": "Military equipment was sent to a country they had recently fought against.",
+    "title": "Sent to the enemy",
+    "description": "Military equipment was moved to a country that had recently been an enemy.",
     "hint": "The decision was made during a retreat.",
-    "explanation": "During the 1991 Gulf War, Iraq began evacuating a significant portion of its combat aircraft to Iran. This seemed paradoxical, since only a few years earlier Iraq and Iran had fought a brutal eight-year war. Iraqi leadership feared coalition airstrikes would destroy their air force and decided to temporarily relocate the planes to Iran. After the conflict ended, Iran refused to return the aircraft.",
+    "explanation": "During the 1991 Gulf War, Iraq evacuated a large part of its combat aircraft to Iran. This appeared paradoxical, as Iraq and Iran had fought a brutal eight-year war just a few years earlier. Fearing destruction by coalition airstrikes, Iraqi leadership chose to relocate the aircraft temporarily. After the war ended, Iran refused to return them.",
     "imageName": "planesFlewToEnemy"
   },
   {
-    "id": 3,
+    "id": 13,
     "category": "Military",
-    "title": "The Saved City",
-    "description": "The city was supposed to be destroyed, but it never happened.",
+    "title": "The city that survived",
+    "description": "The city was supposed to be destroyed — but it wasn’t.",
     "hint": "The decision was made by one person.",
-    "explanation": "In 1944–1945, German General Dietrich von Choltitz received a direct order to destroy Paris during the retreat. He deliberately delayed carrying out the order, realizing the war was lost, and ultimately never executed it. As a result, Paris survived.",
+    "explanation": "In 1944–1945, German general Dietrich von Choltitz received a direct order to destroy Paris during the retreat. Understanding that the war was already lost, he deliberately delayed carrying out the order and ultimately never executed it. As a result, Paris was spared.",
     "imageName": "cityNotDestroyed"
   },
   {
-    "id": 4,
+    "id": 14,
     "category": "Military",
-    "title": "The Order",
-    "description": "People carried out an order without understanding its meaning.",
-    "hint": "The information was not received immediately.",
-    "explanation": "In early 2022, reports emerged that some Russian soldiers crossed into Ukraine without knowing that full-scale combat operations had begun. According to soldiers and their relatives, they were told it was a training exercise or a limited mission. The real scale of events became clear only after the order had been carried out, as later described by participants in interviews with journalists.",
+    "title": "No resistance",
+    "description": "Hundreds of civilians were killed in a village.",
+    "hint": "The operation was officially considered a success.",
+    "explanation": "On March 16, 1968, U.S. soldiers from Charlie Company under Lieutenant William Calley conducted an operation in the village of My Lai. Instead of Viet Cong fighters, they encountered civilians. Between 347 and 504 unarmed people — including women, children, and the elderly — were killed. The massacre became known to the world only a year later and sparked an international scandal.",
+    "imageName": "myLai"
+  },
+  {
+    "id": 15,
+    "category": "Military",
+    "title": "The order",
+    "description": "People followed an order without understanding what it meant.",
+    "hint": "The full information came later.",
+    "explanation": "In early 2022, reports emerged that some Russian soldiers crossed into Ukraine without knowing a full-scale war had begun. According to soldiers and their families, they were told it was training or limited operations. The true scale of events became clear only after the order had already been carried out, as later described by participants in interviews.",
     "imageName": "crossedWithoutKnowing"
   },
   {
-    "id": 5,
+    "id": 16,
     "category": "Military",
-    "title": "Helped the Enemy",
-    "description": "Help in a war led to a threat many years later.",
-    "hint": "A common enemy seemed more important at the time than future consequences.",
-    "explanation": "During the Soviet–Afghan War of 1979–1989, the United States secretly supported Afghan mujahideen, viewing them as opponents of the USSR. This support included funding, training, and weapons supplies. Later, some of these fighters became the foundation of radical organizations, including Al-Qaeda, which carried out terrorist attacks in the United States in 2001.",
+    "title": "A good cause",
+    "description": "Helping in a war led to a threat years later.",
+    "hint": "At the time, a common enemy seemed more important than future consequences.",
+    "explanation": "During the Soviet-Afghan war (1979–1989), the United States secretly supported Afghan mujahideen as opponents of the USSR. The support included funding, training, and weapons supplies. Years later, some of these fighters formed the core of radical organizations, including al-Qaeda, which carried out terrorist attacks in the U.S. in 2001.",
     "imageName": "helpedTheEnemy"
   },
   {
-    "id": 6,
+    "id": 17,
     "category": "Military",
-    "title": "False Alarm",
+    "title": "False alarm",
     "description": "One person realized the system could not be trusted.",
-    "hint": "A decision had to be made immediately.",
-    "explanation": "In 1983, the Soviet early-warning system detected what appeared to be nuclear missile launches from the United States. Duty officer Stanislav Petrov received a signal that, according to protocol, required an immediate report of an attack. However, he judged the data to be false and did not report it as a confirmed strike. It was later discovered that the system malfunctioned due to sunlight reflecting off clouds.",
+    "hint": "The decision had to be made immediately.",
+    "explanation": "In 1983, the Soviet early-warning system reported a nuclear missile launch from the United States. Duty officer Stanislav Petrov received a signal that, according to protocol, required an immediate report of an attack. He judged the data to be false and did not report it as confirmed. Later it was discovered that the system malfunctioned due to sunlight reflecting off clouds.",
     "imageName": "falseAlarmButton"
   },
   {
-    "id": 7,
+    "id": 18,
     "category": "Military",
-    "title": "A Simple Answer",
-    "description": "One short reply changed how an event was perceived.",
-    "hint": "The conversation lasted only a few seconds.",
-    "explanation": "In February 2022, during fighting for Snake Island, a Russian warship demanded that Ukrainian border guards surrender. In response, one of them uttered a phrase that was recorded and later published. This short remark quickly spread through the media and became a symbol of resistance.",
+    "title": "A simple answer",
+    "description": "One short reply changed how the event was perceived.",
+    "hint": "The exchange lasted only a few seconds.",
+    "explanation": "In February 2022, during the battle for Snake Island, a Russian warship demanded that Ukrainian border guards surrender. One of them responded with a short phrase that was recorded and later published. The reply quickly spread through media and became a symbol of resistance.",
     "imageName": "oneSentence"
   },
   {
-    "id": 8,
+    "id": 19,
     "category": "Military",
-    "title": "No One Was Shooting",
-    "description": "Gunfire on the front line suddenly stopped.",
-    "hint": "It did not happen by order.",
-    "explanation": "In December 1914, the so-called Christmas Truce occurred on the Western Front. Soldiers from opposing armies independently ceased fire, left their trenches, communicated, exchanged gifts, and, according to eyewitnesses, even played football. The truce was not sanctioned by command and lasted only briefly before hostilities resumed.",
+    "title": "No one was shooting",
+    "description": "Gunfire suddenly stopped along the front line.",
+    "hint": "It happened without orders.",
+    "explanation": "In December 1914, the so-called Christmas Truce took place on the Western Front. Soldiers from opposing armies spontaneously ceased fire, left their trenches, talked, exchanged gifts, and according to witnesses, even played football. The truce was not authorized by command and lasted only briefly before fighting resumed.",
     "imageName": "silentFront"
   },
   {
-    "id": 9,
+    "id": 110,
+    "category": "Military",
+    "title": "The photo",
+    "description": "A photograph showed war without explanation.",
+    "hint": "The image was seen around the world.",
+    "explanation": "On February 1, 1968, in Saigon, General Nguyen Ngoc Loan publicly executed a captured Viet Cong fighter. The photograph taken by journalist Eddie Adams was published worldwide and became one of the most iconic images of the Vietnam War, strongly influencing public opinion.",
+    "imageName": "saigonExecution"
+  },
+  {
+    "id": 111,
+    "category": "Military",
+    "title": "My war",
+    "description": "A man kept fighting decades after the war ended.",
+    "hint": "He believed all reports were lies.",
+    "explanation": "Japanese soldier Hiroo Onoda was deployed to Lubang Island during World War II. After Japan’s surrender in 1945, he refused to believe the war was over, dismissing leaflets and messages as enemy propaganda. He continued hiding and fighting until 1974, when his former commander personally arrived and ordered him to stand down.",
+    "imageName": "neverStopped"
+  },
+  {
+    "id": 112,
+    "category": "Military",
+    "title": "Unauthorized leave",
+    "description": "A soldier left the base without permission — and returned on his own.",
+    "hint": "What happened was not a combat operation.",
+    "explanation": "On the night of March 11, 2012, U.S. soldier Robert Bales left his base in Kandahar Province, Afghanistan without authorization. He went to nearby villages, where he killed 16 civilians. Afterward, Bales returned to the base on his own and was detained. In 2013, a U.S. military court sentenced him to life imprisonment without parole.",
+    "imageName": "leftTheBase"
+  },
+  {
+    "id": 113,
+    "category": "Military",
+    "title": "The trap",
+    "description": "People were caught in a deadly trap with no way out.",
+    "hint": "This was not a combat mission.",
+    "explanation": "In August 2000, the nuclear submarine Kursk sank during a Northern Fleet exercise in the Barents Sea. After the explosion, some crew members survived in the rear compartment and signaled by knocking on the hull. Rescue operations were delayed, and offers of foreign assistance were not accepted immediately. As a result, all 118 crew members died, despite the absence of combat.",
+    "imageName": "theyKnocked"
+  },
+  {
+    "id": 21,
     "category": "Horror",
     "title": "The Endless Road",
     "description": "No matter which road she chose, she always ended up in the same place.",
@@ -81,7 +126,7 @@
     "imageName": "endlessRoad"
   },
   {
-    "id": 10,
+    "id": 22,
     "category": "Horror",
     "title": "Leap of Faith",
     "description": "A group of thrill-seekers jumped from a rooftop and none survived.",
@@ -90,7 +135,7 @@
     "imageName": "deadJump"
   },
   {
-    "id": 11,
+    "id": 23,
     "category": "Horror",
     "title": "Knocking from the Bathroom",
     "description": "At night, knocking sounds came from the bathroom.",
@@ -99,7 +144,7 @@
     "imageName": "bathroomKnock"
   },
   {
-    "id": 12,
+    "id": 24,
     "category": "Horror",
     "title": "Voicemail Recording",
     "description": "A woman heard her own voice on the answering machine, begging her not to leave the house.",
@@ -108,7 +153,7 @@
     "imageName": "voicemailWarning"
   },
   {
-    "id": 13,
+    "id": 25,
     "category": "Horror",
     "title": "Light in the Window",
     "description": "At night, he saw a light in the neighbors’ apartment, even though they had left.",
@@ -117,7 +162,7 @@
     "imageName": "lightInWindow"
   },
   {
-    "id": 14,
+    "id": 26,
     "category": "Horror",
     "title": "Dangerous Tasting",
     "description": "All participants of a food tasting were hospitalized.",
@@ -126,7 +171,7 @@
     "imageName": "foodTasting"
   },
   {
-    "id": 15,
+    "id": 27,
     "category": "Horror",
     "title": "Crying",
     "description": "A man heard a child crying under his bed.",
@@ -135,7 +180,7 @@
     "imageName": "childUnderBed"
   },
   {
-    "id": 16,
+    "id": 28,
     "category": "Horror",
     "title": "Apocalypse in the Room",
     "description": "A man clapped his hands, and everyone else in the room died.",
@@ -144,7 +189,7 @@
     "imageName": "clapKilling"
   },
   {
-    "id": 17,
+    "id": 29,
     "category": "Horror",
     "title": "The Drowning Man",
     "description": "A man was drowning in a pool, and no one came to help him.",
@@ -153,7 +198,7 @@
     "imageName": "manInPool"
   },
   {
-    "id": 18,
+    "id": 210,
     "category": "Horror",
     "title": "People in the River",
     "description": "Everyone on the observation deck fell into the river.",
@@ -162,7 +207,7 @@
     "imageName": "viewpointFall"
   },
   {
-    "id": 19,
+    "id": 211,
     "category": "Horror",
     "title": "Deadly Dance",
     "description": "A pair of dancers died during a dance competition.",
@@ -171,7 +216,7 @@
     "imageName": "deadDance"
   },
   {
-    "id": 20,
+    "id": 31,
     "category": "Anime",
     "title": "The Bird Inside",
     "description": "A bird was inside a person and activated only years later.",
@@ -180,7 +225,7 @@
     "imageName": "birdInside"
   },
   {
-    "id": 21,
+    "id": 32,
     "category": "Anime",
     "title": "A Deadly Phrase",
     "description": "One carelessly spoken sentence led to the deaths of thousands.",
@@ -189,7 +234,7 @@
     "imageName": "accidentalOrder"
   },
   {
-    "id": 22,
+    "id": 33,
     "category": "Anime",
     "title": "The Price of a Rule",
     "description": "A death occurred because of a rule, not because of murder.",
@@ -198,7 +243,7 @@
     "imageName": "ruleDeath"
   },
   {
-    "id": 23,
+    "id": 34,
     "category": "Anime",
     "title": "The Last Victory",
     "description": "A group of players desperately tried to leave a mark in a world they would soon disappear from forever.",
@@ -207,7 +252,7 @@
     "imageName": "lastVictory"
   },
   {
-    "id": 24,
+    "id": 35,
     "category": "Anime",
     "title": "Unification",
     "description": "People decided to stop being separate individuals in order to survive.",
@@ -216,7 +261,7 @@
     "imageName": "humanUnity"
   },
   {
-    "id": 25,
+    "id": 36,
     "category": "Anime",
     "title": "The Teacher Was Wrong",
     "description": "A man devoted his life to teaching students, but they were the ones who led the world to war.",
@@ -225,7 +270,7 @@
     "imageName": "failedTeacher"
   },
   {
-    "id": 26,
+    "id": 37,
     "category": "Anime",
     "title": "The Stolen Face",
     "description": "An animal stole someone else’s face and ran through the city with it.",
@@ -234,7 +279,7 @@
     "imageName": "catWithMask"
   },
   {
-    "id": 27,
+    "id": 38,
     "category": "Anime",
     "title": "Endless Summer",
     "description": "The same summer repeated hundreds of times, but almost no one noticed.",
@@ -243,7 +288,7 @@
     "imageName": "endlessSummer"
   },
   {
-    "id": 28,
+    "id": 39,
     "category": "Anime",
     "title": "A Serious Offense",
     "description": "A person was severely punished over food.",
@@ -252,7 +297,7 @@
     "imageName": "potatoIncident"
   },
   {
-    "id": 29,
+    "id": 41,
     "category": "Ordinary",
     "title": "The Meeting",
     "description": "He came to a meeting, but everyone had already left.",
@@ -261,7 +306,7 @@
     "imageName": "missedMeeting"
   },
   {
-    "id": 30,
+    "id": 42,
     "category": "Ordinary",
     "title": "The Debt",
     "description": "She repaid the debt, but still owed money.",
@@ -270,7 +315,7 @@
     "imageName": "bankDebt"
   },
   {
-    "id": 31,
+    "id": 43,
     "category": "Ordinary",
     "title": "The Raise",
     "description": "An employee was fired, and after that his income increased.",
