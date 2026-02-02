@@ -300,33 +300,6 @@
         "id": 41,
         "category": "Ordinary",
         "title": "The Meeting",
-        "description": "He came to a meeting, but everyone had already left.",
-        "hint": "He didn’t get the time wrong.",
-        "explanation": "Colleagues decided to change the meeting time in the conference room without notifying everyone in the group chat, and he forgot to check the updated schedule in his work calendar.",
-        "imageName": "missedMeeting"
-    },
-    {
-        "id": 42,
-        "category": "Ordinary",
-        "title": "The Debt",
-        "description": "She repaid the debt, but still owed money.",
-        "hint": "The principal was fully paid.",
-        "explanation": "She paid an amount equal to the outstanding balance at that moment but failed to consider that interest continued to accrue until the end of the billing period. Even a single day between the payment date and the closing date resulted in a small but formal remaining debt.",
-        "imageName": "bankDebt"
-    },
-    {
-        "id": 43,
-        "category": "Ordinary",
-        "title": "The Raise",
-        "description": "An employee was fired, and after that his income increased.",
-        "hint": "He was unlucky and lucky at the same time.",
-        "explanation": "After being dismissed, he received severance pay, compensation for unused vacation, and a bonus tied to the termination date. In total, he earned more money that month than he usually did while still working.",
-        "imageName": "afterFiringIncome"
-    },
-    {
-        "id": 41,
-        "category": "Ordinary",
-        "title": "The Meeting",
         "description": "He arrived for the meeting, but everyone was already gone.",
         "hint": "He didn’t get the time wrong.",
         "explanation": "The team decided to move the meeting to a different time in the meeting room without notifying everyone in the group chat, and he forgot to check the updates in his work calendar.",
