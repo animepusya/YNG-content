@@ -322,5 +322,101 @@
     "hint": "He was unlucky and lucky at the same time.",
     "explanation": "After being dismissed, he received severance pay, compensation for unused vacation, and a bonus tied to the termination date. In total, he earned more money that month than he usually did while still working.",
     "imageName": "afterFiringIncome"
+  },
+  {
+    "id": 51,
+    "category": "Movies",
+    "title": "A Coffin in the Apartment",
+    "description": "A zinc coffin suddenly appears in an ordinary apartment, and everyone around treats it as something almost normal.",
+    "hint": "This has nothing to do with illness or a funeral.",
+    "explanation": "A zinc coffin containing a soldier’s body is delivered as part of the cold bureaucratic routine of war. It becomes a silent backdrop to everyday life for people accustomed to the system’s absurdity and cruelty. No one asks questions or tries to change anything. This storyline is central to the film “Cargo 200” by Alexei Balabanov."
+  },
+  {
+    "id": 52,
+    "category": "Movies",
+    "title": "Arrested Development",
+    "description": "An adult woman behaves like a child and does not understand basic social rules.",
+    "hint": "Her body and her mind did not develop at the same pace.",
+    "explanation": "After a woman’s death, a scientist transplants the brain of an unborn child into her body. Physically she is an adult, but her consciousness develops from scratch. The story is based on the film “Poor Things” by Yorgos Lanthimos."
+  },
+  {
+    "id": 53,
+    "category": "Movies",
+    "title": "Murder as Art",
+    "description": "A man believes he is not committing crimes, but creating works of art.",
+    "hint": "He judges his actions outside the framework of morality.",
+    "explanation": "The protagonist treats his actions as an artistic project. Form, concept, and “beauty” matter more to him than human life, so he continues killing in the name of art. The story unfolds in the film “The House That Jack Built” by Lars von Trier."
+  },
+  {
+    "id": 54,
+    "category": "Movies",
+    "title": "The Most Human of All",
+    "description": "A man is considered a monster and displayed to the public for money.",
+    "hint": "Appearances are deceptive.",
+    "explanation": "Because of his physical condition, the protagonist is treated as a monster and exploited for his appearance. Yet he turns out to be the kindest, most intelligent, and most humane person among those around him. The story comes from the film “The Elephant Man” by David Lynch."
+  },
+  {
+    "id": 55,
+    "category": "Movies",
+    "title": "A World Without Coincidences",
+    "description": "A man begins to notice that the world around him feels artificial and that everyone’s actions seem preplanned.",
+    "hint": "He is being watched at all times.",
+    "explanation": "His entire life is a television show. The city is a set, and everyone around him is an actor playing a role. The story unfolds in the film “The Truman Show” by Peter Weir."
+  },
+  {
+    "id": 56,
+    "category": "Movies",
+    "title": "The Man Who Knows Everything",
+    "description": "A man starts predicting events and people’s behavior with perfect accuracy.",
+    "hint": "He has already lived through this.",
+    "explanation": "He relives the same day over and over, memorizing details, behaviors, and consequences until he learns the world around him down to the smallest detail. The story is taken from the film “Groundhog Day” by Harold Ramis."
+  },
+  {
+    "id": 57,
+    "category": "Movies",
+    "title": "Erase Love",
+    "description": "A person willingly agrees to forget the most important person in their life.",
+    "hint": "Memories can be deleted.",
+    "explanation": "The protagonist undergoes a memory-erasure procedure to escape the pain of a breakup, but gradually realizes he does not want to lose those memories. The story is based on the film “Eternal Sunshine of the Spotless Mind” by Michel Gondry."
+  },
+  {
+    "id": 58,
+    "category": "Movies",
+    "title": "Seven Trials",
+    "description": "A young man must defeat his girlfriend’s former partners in order to be with her.",
+    "hint": "This world follows video game rules.",
+    "explanation": "The film’s reality operates like a video game: characters have levels, bosses, and victories that symbolize internal conflicts. To start a relationship with the girl, he must defeat all of her exes. The story unfolds in the film “Scott Pilgrim vs. the World” by Edgar Wright."
+  },
+  {
+    "id": 59,
+    "category": "Movies",
+    "title": "A Miracle in the Chaos",
+    "description": "Two criminals survive a situation where survival seems impossible.",
+    "hint": "One of them sees it as a sign.",
+    "explanation": "During a robbery, they are shot at point-blank range, yet not a single bullet hits them. One of the men interprets this as a miracle and decides to change his life. This story is one of the episodes in the film “Pulp Fiction” by Quentin Tarantino."
+  },
+  {
+    "id": 510,
+    "category": "Movies",
+    "title": "Not Chosen in Advance",
+    "description": "An ordinary man suddenly finds himself at the center of an ancient battle between Light and Darkness.",
+    "hint": "What matters is not the prophecy, but his choice.",
+    "explanation": "The protagonist discovers a hidden world where Light and Darkness have been at war for centuries. His personal decision disrupts the balance of power. The story is taken from the film “Night Watch” by Timur Bekmambetov."
+  },
+  {
+    "id": 511,
+    "category": "Movies",
+    "title": "A Man with No Past",
+    "description": "A reclusive man living by strict rules unexpectedly takes responsibility for a child.",
+    "hint": "He himself never had a childhood.",
+    "explanation": "The protagonist is a professional hitman accustomed to solitude, but caring for a young girl gradually awakens his humanity and sense of responsibility. The story unfolds in the film “Léon: The Professional” by Luc Besson."
+  },
+  {
+    "id": 512,
+    "category": "Movies",
+    "title": "The Final Move",
+    "description": "A serial killer suddenly walks into a police station and calmly confesses to his crimes.",
+    "hint": "He is not seeking protection or redemption.",
+    "explanation": "The criminal turns himself in because his plan is nearly complete. The police are not meant to judge him, but to become part of the final stage of his design. His actions follow a strict logic and symbolism, and the outcome is only possible with the detectives’ involvement. This story forms the basis of the film “Se7en” by David Fincher."
   }
 ]
