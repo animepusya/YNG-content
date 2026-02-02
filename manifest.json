@@ -1,5 +1,5 @@
 {
-  "contentVersion": 3,
+  "contentVersion": 4,
   "cardsPaths": {
     "ru": "cards_ru.json",
     "en": "cards_en.json"
